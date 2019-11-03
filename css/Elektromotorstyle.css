@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray;
+  }
+
+  h1 {
+    color: White;
+    text-align: center;
+  }
+  
+  p{
+    color: white;
+    text-align: center; 
+  }
+
+  body {
+    background-image: url("te.jpg");
+  }  
